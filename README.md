@@ -10,6 +10,7 @@
 
 ## Project View
 Link: [https://flightfare-predict.herokuapp.com/](https://flightfare-predict.herokuapp.com/)
+
 Dataset : [https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/)
 
 
